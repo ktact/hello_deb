@@ -1,0 +1,9 @@
+Package: hello
+Version: 0.01-1+deb9u1
+Architecture: amd64
+Maintainer: ktact <ktact.dev@gmail.com>
+Installed-Size: 16
+Section: devel
+Priority: optional
+Homepage: http://www.example.com/
+Description: example package for deb package
